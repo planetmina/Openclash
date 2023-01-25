@@ -30,3 +30,7 @@ sosmed		:	https://bit.ly/pmautorulesosmed
 olshop		:	https://bit.ly/pmautoruleolshop
 bank		:	https://bit.ly/pmautorulebank
 whatsapp	:	https://bit.ly/pmautorulewhatsapp
+
+Sumber Youtube Master Wifi  :
+https://www.youtube.com/watch?v=FAvZo8nJXck
+https://www.youtube.com/watch?v=fiobdUjdycU
